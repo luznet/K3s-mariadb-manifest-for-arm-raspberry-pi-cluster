@@ -1,5 +1,5 @@
 # K3s-mariadb-manifest-for-arm
-After almost a day struggle with mariadb installation on my k3s cluster I decided to share my findings so maybe someone else will benefit from it :):)
+After almost a day of struggle with mariadb installation on my k3s cluster I decided to share my findings so maybe someone else will benefit from it :):)
 
 
 # Due to errors while trying to install mysql and/or mariadb using helm I had to create my own manifest and pull images from dockerhub plus add it to local repo inside my k3s cluster .
