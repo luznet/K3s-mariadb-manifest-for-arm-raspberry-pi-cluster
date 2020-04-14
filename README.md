@@ -1,4 +1,4 @@
-# K3s-mariadb-manifest-for-arm
+# K3s-mariadb-manifest-for-arm-raspberry-pi-cluster
 After almost a day of struggle with mariadb installation on my k3s cluster I decided to share my findings so maybe someone else will benefit from it :):)
 
 
