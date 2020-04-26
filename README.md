@@ -1,3 +1,5 @@
+Eventually I've gotten rid off raspbian in favor of Ubuntu light and currently I'm using dedicated 64bit Mariadb for ARM64
+
 # K3s-mariadb-manifest-for-arm-raspberry-pi-cluster
 After almost a day of struggle with mariadb installation on my k3s cluster I decided to share my findings so maybe someone else will benefit from it :):)
 
